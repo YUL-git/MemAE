@@ -3,6 +3,10 @@
 - Implement experiment in paper using MNIST datasets
 - Reference Paper [Memorizing Normality to Detect Anomaly: Memory-augmented Deep Autoencoder for Unsupervised Anomaly Detection(ICCV 2019)](https://arxiv.org/pdf/1904.02639.pdf)  
 ![image](./pics/MemAE.png)  
+
+## Requirements
+* Pytorch >= 2.0.0  
+* Pytorch-lightning  
   
 ## Files  
 ```bash
