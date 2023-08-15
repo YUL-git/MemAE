@@ -1,7 +1,8 @@
 # MemAE
  Memorizing Normality to Detect Anomaly: Memory-augmented Deep Autoencoder for Unsupervised Anomaly Detection
-- Implement experiment in paper using MNIST datasets
-- Reference Paper [Memorizing Normality to Detect Anomaly: Memory-augmented Deep Autoencoder for Unsupervised Anomaly Detection(ICCV 2019)](https://arxiv.org/pdf/1904.02639.pdf)  
+- Conduct experiments as described in the paper using the MNIST dataset.
+- To experiment with other datasets, please modify the 'dataset.py' file.
+- [Memorizing Normality to Detect Anomaly: Memory-augmented Deep Autoencoder for Unsupervised Anomaly Detection(ICCV 2019)](https://arxiv.org/pdf/1904.02639.pdf)  
 ![image](./pics/MemAE.png)  
 
 ## Requirements
